@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Mybook | Log in</title>
+	<link rel='stylesheet' type='text/css' href='style.css' />
+</head>
+<body style="font-family: tahoma; background-color: #e9ebee;">
+	<div id="bar">
+		<div id="title">
+			Mybook                                                         
+			
+		</div>
+		<div id="signupbtn">
+			SignUp
+		</div>
+		</div>
+		<div id="bar2">
+			
+			Log In to Mybook<br><br>
+			<input type="text" id="text" placeholder="Email"><br><br>
+			<input type="password" id="text" placeholder="Password"><br><br>
+			<input type="submit" id="button" value="Log In"><br>
+
+
+
+			
+		</div>
+     
+</body>
+</html>
